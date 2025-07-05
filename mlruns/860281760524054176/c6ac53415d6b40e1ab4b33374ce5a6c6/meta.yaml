@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/860281760524054176/c6ac53415d6b40e1ab4b33374ce5a6c6/artifacts
+end_time: 1751472491757
+entry_point_name: ''
+experiment_id: '860281760524054176'
+lifecycle_stage: active
+run_id: c6ac53415d6b40e1ab4b33374ce5a6c6
+run_name: loud-grub-967
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751472491284
+status: 3
+tags: []
+user_id: prema

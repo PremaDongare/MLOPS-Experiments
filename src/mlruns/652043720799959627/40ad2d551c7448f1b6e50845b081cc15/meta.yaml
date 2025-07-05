@@ -1,0 +1,14 @@
+artifact_uri: file:///E:/Python%20Practice%20main/MLflow/MLOPS-Experiments/src/mlruns/652043720799959627/40ad2d551c7448f1b6e50845b081cc15/artifacts
+end_time: 1751720673673
+entry_point_name: ''
+experiment_id: '652043720799959627'
+lifecycle_stage: active
+run_id: 40ad2d551c7448f1b6e50845b081cc15
+run_name: funny-bee-769
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751720673172
+status: 3
+tags: []
+user_id: prema

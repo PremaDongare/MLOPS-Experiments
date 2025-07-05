@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/c530bc0a921e4913ba3e7fec9961c796/artifacts
+end_time: 1751470866621
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c530bc0a921e4913ba3e7fec9961c796
+run_name: dashing-smelt-823
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751470864492
+status: 3
+tags: []
+user_id: prema

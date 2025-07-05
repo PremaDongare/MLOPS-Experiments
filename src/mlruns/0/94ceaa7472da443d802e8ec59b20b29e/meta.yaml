@@ -1,0 +1,14 @@
+artifact_uri: file:///E:/Python%20Practice%20main/MLflow/MLOPS-Experiments/src/mlruns/0/94ceaa7472da443d802e8ec59b20b29e/artifacts
+end_time: 1751460803425
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 94ceaa7472da443d802e8ec59b20b29e
+run_name: bald-ray-197
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751460803363
+status: 3
+tags: []
+user_id: prema

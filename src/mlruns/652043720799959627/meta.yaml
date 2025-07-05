@@ -1,0 +1,6 @@
+artifact_location: file:///E:/Python%20Practice%20main/MLflow/MLOPS-Experiments/src/mlruns/652043720799959627
+creation_time: 1751720672334
+experiment_id: '652043720799959627'
+last_update_time: 1751720672334
+lifecycle_stage: active
+name: wine_classification_experiment

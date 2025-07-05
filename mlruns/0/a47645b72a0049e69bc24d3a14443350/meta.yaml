@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/a47645b72a0049e69bc24d3a14443350/artifacts
+end_time: 1751460930372
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a47645b72a0049e69bc24d3a14443350
+run_name: salty-midge-653
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751460930280
+status: 3
+tags: []
+user_id: prema
