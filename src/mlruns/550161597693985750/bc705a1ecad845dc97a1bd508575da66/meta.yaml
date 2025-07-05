@@ -1,0 +1,14 @@
+artifact_uri: file:///E:/Python%20Practice%20main/MLflow/MLOPS-Experiments/src/mlruns/550161597693985750/bc705a1ecad845dc97a1bd508575da66/artifacts
+end_time: 1751730371565
+entry_point_name: ''
+experiment_id: '550161597693985750'
+lifecycle_stage: active
+run_id: bc705a1ecad845dc97a1bd508575da66
+run_name: sedate-donkey-532
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751730371537
+status: 3
+tags: []
+user_id: prema

@@ -1,0 +1,14 @@
+artifact_uri: file:///E:/Python%20Practice%20main/MLflow/MLOPS-Experiments/src/mlruns/550161597693985750/68cb3daeb91747cd95b649afabe8e330/artifacts
+end_time: 1751730605662
+entry_point_name: ''
+experiment_id: '550161597693985750'
+lifecycle_stage: active
+run_id: 68cb3daeb91747cd95b649afabe8e330
+run_name: brawny-owl-57
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751730605635
+status: 3
+tags: []
+user_id: prema

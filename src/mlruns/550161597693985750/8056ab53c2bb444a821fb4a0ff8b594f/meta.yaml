@@ -1,0 +1,14 @@
+artifact_uri: file:///E:/Python%20Practice%20main/MLflow/MLOPS-Experiments/src/mlruns/550161597693985750/8056ab53c2bb444a821fb4a0ff8b594f/artifacts
+end_time: 1751730605716
+entry_point_name: ''
+experiment_id: '550161597693985750'
+lifecycle_stage: active
+run_id: 8056ab53c2bb444a821fb4a0ff8b594f
+run_name: funny-ram-427
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751730605692
+status: 3
+tags: []
+user_id: prema

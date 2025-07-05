@@ -1,0 +1,14 @@
+artifact_uri: file:///E:/Python%20Practice%20main/MLflow/MLOPS-Experiments/src/mlruns/550161597693985750/dfafce2231c84f80b68ac9adb07929a1/artifacts
+end_time: 1751730371676
+entry_point_name: ''
+experiment_id: '550161597693985750'
+lifecycle_stage: active
+run_id: dfafce2231c84f80b68ac9adb07929a1
+run_name: exultant-conch-373
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751730371653
+status: 3
+tags: []
+user_id: prema

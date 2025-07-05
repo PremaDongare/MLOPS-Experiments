@@ -1,0 +1,14 @@
+artifact_uri: file:///E:/Python%20Practice%20main/MLflow/MLOPS-Experiments/src/mlruns/550161597693985750/70baaa825293435b8cba38252ba5559c/artifacts
+end_time: 1751730605631
+entry_point_name: ''
+experiment_id: '550161597693985750'
+lifecycle_stage: active
+run_id: 70baaa825293435b8cba38252ba5559c
+run_name: dashing-sloth-658
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751730605604
+status: 3
+tags: []
+user_id: prema

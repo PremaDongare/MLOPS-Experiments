@@ -1,0 +1,14 @@
+artifact_uri: file:///E:/Python%20Practice%20main/MLflow/MLOPS-Experiments/src/mlruns/550161597693985750/16062dbcf00d495ca55c702a488e9e61/artifacts
+end_time: 1751730610845
+entry_point_name: ''
+experiment_id: '550161597693985750'
+lifecycle_stage: active
+run_id: 16062dbcf00d495ca55c702a488e9e61
+run_name: ambitious-hog-283
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751730596713
+status: 3
+tags: []
+user_id: prema

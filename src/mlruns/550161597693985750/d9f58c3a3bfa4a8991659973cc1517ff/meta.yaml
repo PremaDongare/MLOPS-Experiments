@@ -1,0 +1,14 @@
+artifact_uri: file:///E:/Python%20Practice%20main/MLflow/MLOPS-Experiments/src/mlruns/550161597693985750/d9f58c3a3bfa4a8991659973cc1517ff/artifacts
+end_time: 1751730371649
+entry_point_name: ''
+experiment_id: '550161597693985750'
+lifecycle_stage: active
+run_id: d9f58c3a3bfa4a8991659973cc1517ff
+run_name: zealous-koi-124
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751730371626
+status: 3
+tags: []
+user_id: prema

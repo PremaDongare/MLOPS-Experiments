@@ -1,0 +1,14 @@
+artifact_uri: file:///E:/Python%20Practice%20main/MLflow/MLOPS-Experiments/src/mlruns/550161597693985750/0e9291f4c5a64d2a86f44fa6c97f1d15/artifacts
+end_time: 1751730371730
+entry_point_name: ''
+experiment_id: '550161597693985750'
+lifecycle_stage: active
+run_id: 0e9291f4c5a64d2a86f44fa6c97f1d15
+run_name: tasteful-sloth-261
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751730371707
+status: 3
+tags: []
+user_id: prema

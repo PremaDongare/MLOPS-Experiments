@@ -1,0 +1,14 @@
+artifact_uri: file:///E:/Python%20Practice%20main/MLflow/MLOPS-Experiments/src/mlruns/550161597693985750/e9832f9e76e744d2af2ff4b21834ed4c/artifacts
+end_time: 1751730371756
+entry_point_name: ''
+experiment_id: '550161597693985750'
+lifecycle_stage: active
+run_id: e9832f9e76e744d2af2ff4b21834ed4c
+run_name: agreeable-goose-760
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751730371734
+status: 3
+tags: []
+user_id: prema

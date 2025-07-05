@@ -1,0 +1,14 @@
+artifact_uri: file:///E:/Python%20Practice%20main/MLflow/MLOPS-Experiments/src/mlruns/550161597693985750/3c0a7f4efe5c4d69a85d43065c070e19/artifacts
+end_time: 1751730605515
+entry_point_name: ''
+experiment_id: '550161597693985750'
+lifecycle_stage: active
+run_id: 3c0a7f4efe5c4d69a85d43065c070e19
+run_name: able-kite-273
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751730605491
+status: 3
+tags: []
+user_id: prema

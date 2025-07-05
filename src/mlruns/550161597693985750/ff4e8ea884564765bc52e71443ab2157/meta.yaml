@@ -1,0 +1,14 @@
+artifact_uri: file:///E:/Python%20Practice%20main/MLflow/MLOPS-Experiments/src/mlruns/550161597693985750/ff4e8ea884564765bc52e71443ab2157/artifacts
+end_time: 1751730605541
+entry_point_name: ''
+experiment_id: '550161597693985750'
+lifecycle_stage: active
+run_id: ff4e8ea884564765bc52e71443ab2157
+run_name: puzzled-calf-74
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751730605518
+status: 3
+tags: []
+user_id: prema

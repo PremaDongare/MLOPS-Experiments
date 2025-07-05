@@ -1,0 +1,14 @@
+artifact_uri: file:///E:/Python%20Practice%20main/MLflow/MLOPS-Experiments/src/mlruns/550161597693985750/8dc3adac7d9841c6bb8fd477b7e6d327/artifacts
+end_time: 1751730605424
+entry_point_name: ''
+experiment_id: '550161597693985750'
+lifecycle_stage: active
+run_id: 8dc3adac7d9841c6bb8fd477b7e6d327
+run_name: honorable-panda-316
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751730605394
+status: 3
+tags: []
+user_id: prema

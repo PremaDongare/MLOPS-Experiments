@@ -1,0 +1,14 @@
+artifact_uri: file:///E:/Python%20Practice%20main/MLflow/MLOPS-Experiments/src/mlruns/550161597693985750/0cf583c6226940e99a180e7e46e97ab4/artifacts
+end_time: 1751730371783
+entry_point_name: ''
+experiment_id: '550161597693985750'
+lifecycle_stage: active
+run_id: 0cf583c6226940e99a180e7e46e97ab4
+run_name: agreeable-carp-358
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751730371760
+status: 3
+tags: []
+user_id: prema

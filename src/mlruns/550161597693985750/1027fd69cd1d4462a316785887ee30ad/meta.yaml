@@ -1,0 +1,14 @@
+artifact_uri: file:///E:/Python%20Practice%20main/MLflow/MLOPS-Experiments/src/mlruns/550161597693985750/1027fd69cd1d4462a316785887ee30ad/artifacts
+end_time: 1751730371596
+entry_point_name: ''
+experiment_id: '550161597693985750'
+lifecycle_stage: active
+run_id: 1027fd69cd1d4462a316785887ee30ad
+run_name: capable-pug-441
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751730371569
+status: 3
+tags: []
+user_id: prema

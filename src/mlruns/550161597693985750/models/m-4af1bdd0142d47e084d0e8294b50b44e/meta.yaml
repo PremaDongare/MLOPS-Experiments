@@ -1,0 +1,10 @@
+artifact_location: file:///E:/Python%20Practice%20main/MLflow/MLOPS-Experiments/src/mlruns/550161597693985750/models/m-4af1bdd0142d47e084d0e8294b50b44e/artifacts
+creation_timestamp: 1751730605826
+experiment_id: '550161597693985750'
+last_updated_timestamp: 1751730610828
+model_id: m-4af1bdd0142d47e084d0e8294b50b44e
+model_type: null
+name: random_forest
+source_run_id: 16062dbcf00d495ca55c702a488e9e61
+status: 2
+status_message: null
